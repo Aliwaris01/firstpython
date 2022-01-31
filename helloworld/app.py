@@ -11,7 +11,4 @@ else:
 
 
     print('what are you doing')
-    print('zordgillari')
-    print('what is this? why is this soo??')
-    print('what is this? why is this soo??')
-    print('so you are saying that i have to merge this. okay')
+    
