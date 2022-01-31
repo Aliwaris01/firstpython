@@ -8,3 +8,6 @@ elif len(name) > 50:
 
 else:
     print("Name looks good: ")
+
+
+    print('what are you doing')
